@@ -16,6 +16,7 @@ public class Main {
 			n = scan.nextInt();
 		}
 		System.out.print("Cerrando Sistema...");
+		scan.close();
 	}
 
 }
