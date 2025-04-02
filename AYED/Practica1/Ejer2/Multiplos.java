@@ -1,6 +1,6 @@
 package Ejer2;
 
-import java.util.Scanner;
+
 
 public class Multiplos {
 
