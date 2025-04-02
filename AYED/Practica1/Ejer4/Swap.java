@@ -29,3 +29,6 @@ public class Swap {
 		}
 		
 }
+
+El programa realiza un cambio entre el numero de menor valor con el de mayor valor
+	
